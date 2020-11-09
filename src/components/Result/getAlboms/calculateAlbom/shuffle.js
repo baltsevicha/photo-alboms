@@ -17,7 +17,6 @@ function calculateMaxDiffIndex(rowsRatioDiff) {
 
 function moveImageToPrevRow(index, maxDiffIndex, rowsPhotos) {
   if (index === maxDiffIndex) {
-    console.log({ rowsPhotos, index });
     const currentPhotosRow = rowsPhotos[index];
     const firstPhotoOfNextRow = rowsPhotos[index + 1][0];
 

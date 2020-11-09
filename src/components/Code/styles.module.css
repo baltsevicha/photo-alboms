@@ -1,0 +1,15 @@
+.container {
+  padding: 16px;
+}
+
+.data {
+  border: 1px solid grey;
+  background-color: rgb(21, 32, 75);
+  color: #ffffff;
+}
+
+.code {
+  border: 1px solid grey;
+  background-color: #000000;
+  color: #ffffff;
+}

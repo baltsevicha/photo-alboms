@@ -67,7 +67,6 @@ const Albom = () => {
     setPhotos(newPhotos);
   };
 
-  console.log("photos = ", photos);
   return (
     <div className={styles.container}>
       <input type="file" onChange={handleChange} multiple />
