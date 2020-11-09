@@ -1,0 +1,12 @@
+.albom {
+  width: 326px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  margin-bottom: 24px;
+  box-sizing: border-box;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 8px 12px;
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.preview {
+  max-height: 200px;
+  max-width: 200px;
+  margin-right: 16px;
+}
