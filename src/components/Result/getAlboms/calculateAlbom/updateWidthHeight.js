@@ -1,4 +1,4 @@
-const CONTAINER_WIDTH = 300;
+const CONTAINER_WIDTH = 440;
 
 function sumRatio(rowPhotos) {
   let sum = 0;

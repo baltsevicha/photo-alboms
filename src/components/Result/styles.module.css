@@ -1,5 +1,5 @@
 .albom {
-  width: 326px;
+  max-width: 466px;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
